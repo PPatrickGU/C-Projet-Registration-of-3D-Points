@@ -1,0 +1,12 @@
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\bin\Debug\PCL_surface.exe.config
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\bin\Debug\PCL_surface.exe
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\bin\Debug\PCL_surface.pdb
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.csprojResolveAssemblyReference.cache
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.Form1.resources
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.Properties.Resources.resources
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.csproj.GenerateResource.Cache
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.exe
+c:\users\qiong\Desktop\PCLTest\PCL_surface\PCL_surface\obj\Debug\PCL_surface.pdb
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Debug\PCL_surface.exe.config
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Debug\PCL_surface.exe
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Debug\PCL_surface.pdb

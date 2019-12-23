@@ -1,0 +1,21 @@
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.exe.config
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.exe
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.pdb
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.csprojResolveAssemblyReference.cache
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.Form1.resources
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.Properties.Resources.resources
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.csproj.GenerateResource.Cache
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.exe
+C:\Users\qiong\Desktop\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.pdb
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.exe.config
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.exe
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.pdb
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.exe
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\bin\Release\PCL_surface.pdb
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.csprojResolveAssemblyReference.cache
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.Form1.resources
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.Properties.Resources.resources
+E:\graduating_design\PCLTest\界面制作\PCL_surface\PCL_surface\obj\Release\PCL_surface.csproj.GenerateResource.Cache
+F:\Lenovo\Documents\GitHub\C-Projet-Registration-of-3D-Points\Human-machine interface design\PCL_surface\PCL_surface\bin\Release\PCL_surface.exe.config
+F:\Lenovo\Documents\GitHub\C-Projet-Registration-of-3D-Points\Human-machine interface design\PCL_surface\PCL_surface\obj\Release\PCL_surface.exe
+F:\Lenovo\Documents\GitHub\C-Projet-Registration-of-3D-Points\Human-machine interface design\PCL_surface\PCL_surface\obj\Release\PCL_surface.pdb
